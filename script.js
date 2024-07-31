@@ -41,13 +41,83 @@ const tracks = [
   },
   {
     albumCover: {
-      source: "assets/images/ac-img-4.jpeg",
+      source: "assets/images/ac-img-5.jpeg",
       alt: "Foo",
     },
-    name: "AMG",
-    album: "AMG - Single",
-    artist: "Natanael Cano, Peso Pluma & Gabito Ballesteros",
-    duration: 5,
+    name: "Lucy In The Sky with Diamonds",
+    album: "Sgt. Pepper's Lonely Hearts Club Band",
+    artist: "The Beatles",
+    duration: 315,
+  },
+  {
+    albumCover: {
+      source: "assets/images/ac-img-6.webp",
+      alt: "Foo",
+    },
+    name: "Barbie Dreams",
+    album: "Queen",
+    artist: "Nicki Minaj",
+    duration: 325,
+  },
+  {
+    albumCover: {
+      source: "assets/images/ac-img-7.jpg",
+      alt: "Foo",
+    },
+    name: "Breezin'",
+    album: "Breezin'",
+    artist: "George Benson",
+    duration: 395,
+  },
+  {
+    albumCover: {
+      source: "assets/images/ac-img-8.jpg",
+      alt: "Foo",
+    },
+    name: "Weak for Your Love",
+    album: "Thee Sacred Souls",
+    artist: "Thee Sacred Souls",
+    duration: 305,
+  },
+  {
+    albumCover: {
+      source: "assets/images/ac-img-9.jpg",
+      alt: "Foo",
+    },
+    name: "Talking In Your Sleep",
+    album: "The Romantics: Super Hits",
+    artist: "The Romantics",
+    duration: 319,
+  },
+  {
+    albumCover: {
+      source: "assets/images/ac-img-10.jpg",
+      alt: "Foo",
+    },
+    name: "Funny Thing",
+    album: "It Is What It Is",
+    artist: "Thundercat",
+    duration: 299,
+  },
+  {
+    albumCover: {
+      source: "assets/images/ac-img-11.jpeg",
+      alt: "Foo",
+    },
+    name: "La Vida Es Fría",
+    album: "La Vida Es Fría",
+    artist: "Jason Joshua",
+    duration: 312,
+  },
+  {
+    albumCover: {
+      source: "assets/images/ac-img-12.jpg",
+      alt: "Foo",
+    },
+    name: "Parachute",
+    album: "Parachute b/w Si Me Faltaras",
+    artist: "Thee Lakesiders",
+    duration: 301,
   },
 ];
 
